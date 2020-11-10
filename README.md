@@ -1,5 +1,5 @@
 # WW_AutomationTask
-Automation code to test find workshop schedule functiona lity.
+Automation code to test find workshop schedule functionality.
 
 Tools used and dependency to support testing:
 Eclipse version Version: 2019-06 (4.12.0)
